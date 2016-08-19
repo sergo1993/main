@@ -1,0 +1,9 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title>Некий текст</title>
+	</head>
+	<body>
+		<p>некий контент</p>
+	</body>
+</html>
